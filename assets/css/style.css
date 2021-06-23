@@ -42,13 +42,13 @@ section{
     font-weight: 700;
     
 }
-.center{
-    text-align: center;
-}
 .experience-area{
     background-image: url(../images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+.center{
+    text-align: center;
 }
 
 .box-exp{
